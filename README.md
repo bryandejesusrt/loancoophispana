@@ -1,9 +1,12 @@
 # Simulador de Préstamos — Coop Hispana
-<img width="430" height="768" alt="image" src="https://github.com/user-attachments/assets/c0a5b796-09f5-43d3-bcb6-d398498422b9" />
-<img width="432" height="768" alt="image" src="https://github.com/user-attachments/assets/61f41387-50ed-4226-99b5-1811af723fa3" />
-<img width="432" height="768" alt="image" src="https://github.com/user-attachments/assets/2df16433-9f78-46f8-8b6d-a371168fbe04" />
-<img width="427" height="752" alt="image" src="https://github.com/user-attachments/assets/20f8a016-1d01-4b44-afb0-3c0e2f6ed7dd" />
 
+
+
+
+|  |  |
+|---|---|
+| <img alt="image" src="https://github.com/user-attachments/assets/c0a5b796-09f5-43d3-bcb6-d398498422b9"> | <img alt="image" src="https://github.com/user-attachments/assets/61f41387-50ed-4226-99b5-1811af723fa3" > |
+| <img alt="image" src="https://github.com/user-attachments/assets/2df16433-9f78-46f8-8b6d-a371168fbe04"> | <img alt="image" src="https://github.com/user-attachments/assets/20f8a016-1d01-4b44-afb0-3c0e2f6ed7dd"> |
 
 Aplicación Flutter para simular préstamos de manera clara y reactiva, incorporando reglas de negocio de tasas dinámicas, restricciones de plazo por monto y cálculo automático de la cuota mensual con seguros.
 
@@ -98,6 +101,8 @@ Nota: El interés porcentual se convierte a decimal para el cálculo. Los seguro
 - Los montos y tasas se basan en tramos predeterminados del negocio.
 - La entrada se valida para evitar caracteres inválidos y montos fuera de rango.
 - La interfaz muestra de manera explícita las restricciones para mejorar la experiencia del usuario.
+
+
 
 ## Licencia
 Proyecto con fines demostrativos para simulación de reglas de préstamo de Coop Hispana.
